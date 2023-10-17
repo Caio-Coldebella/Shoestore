@@ -1,6 +1,0 @@
-[submodule "Shoestore-front"]
-	path = Shoestore-front
-	url = https://github.com/Caio-Coldebella/Shoestore-front.git
-[submodule "Shoestore-back"]
-	path = Shoestore-back
-	url = https://github.com/Caio-Coldebella/Shoestore-back.git
